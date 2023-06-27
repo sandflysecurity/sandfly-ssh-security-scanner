@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# This script searches for any SSH authorized_keys files that have duplicate keys present. 
+# This script searches for any SSH authorized_keys files that have excessive keys present. 
 #
 # (c) 2023 Sandfly Security
 # https://www.sandflysecurity.com
